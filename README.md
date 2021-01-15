@@ -1,7 +1,3 @@
-# VAMP Facilities Intelligence
-
-> Rethink Facility Management
-
 ## Clipboard Full-stack candidate Testing
 
 ``` bash
